@@ -1,0 +1,2 @@
+example1:example2:mini_map_node:my_message:my_robot_controller:nmea_reading
+-DCATKIN_DEVEL_PREFIX=/home/tranhieu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tranhieu/catkin_ws/install -G Unix Makefiles

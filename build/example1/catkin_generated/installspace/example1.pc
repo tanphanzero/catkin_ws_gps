@@ -1,0 +1,8 @@
+prefix=/home/tranhieu/catkin_ws/install
+
+Name: example1
+Description: Description of example1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
